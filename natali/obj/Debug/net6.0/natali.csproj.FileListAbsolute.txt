@@ -1,0 +1,15 @@
+C:\Users\vitkh\source\repos\natali\natali\obj\Debug\net6.0\natali.csproj.AssemblyReference.cache
+C:\Users\vitkh\source\repos\natali\natali\obj\Debug\net6.0\natali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitkh\source\repos\natali\natali\obj\Debug\net6.0\natali.AssemblyInfoInputs.cache
+C:\Users\vitkh\source\repos\natali\natali\obj\Debug\net6.0\natali.AssemblyInfo.cs
+C:\Users\vitkh\source\repos\natali\natali\obj\Debug\net6.0\natali.csproj.CoreCompileInputs.cache
+C:\Users\vitkh\source\repos\natali\natali\bin\Debug\net6.0\natali.exe
+C:\Users\vitkh\source\repos\natali\natali\bin\Debug\net6.0\natali.deps.json
+C:\Users\vitkh\source\repos\natali\natali\bin\Debug\net6.0\natali.runtimeconfig.json
+C:\Users\vitkh\source\repos\natali\natali\bin\Debug\net6.0\natali.dll
+C:\Users\vitkh\source\repos\natali\natali\bin\Debug\net6.0\natali.pdb
+C:\Users\vitkh\source\repos\natali\natali\obj\Debug\net6.0\natali.dll
+C:\Users\vitkh\source\repos\natali\natali\obj\Debug\net6.0\refint\natali.dll
+C:\Users\vitkh\source\repos\natali\natali\obj\Debug\net6.0\natali.pdb
+C:\Users\vitkh\source\repos\natali\natali\obj\Debug\net6.0\natali.genruntimeconfig.cache
+C:\Users\vitkh\source\repos\natali\natali\obj\Debug\net6.0\ref\natali.dll
